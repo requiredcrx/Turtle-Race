@@ -27,7 +27,7 @@ This project uses the following Python module:
 ```turtle:``` This module provides a way to create graphics and shapes using turtle graphics.
 
 Example Output
-You can try out a test version here hosted on (Replit)[https://replit.com/@labelisaiah/turtle-racing?v=1]
+You can try out a test version here hosted on [Replit](https://replit.com/@labelisaiah/turtle-racing?v=1)
 
 
 ## Acknowledgments
